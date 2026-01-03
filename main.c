@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #define MAX 1000
-
+//
 
 typedef struct {
     char nume[100];
@@ -106,6 +106,6 @@ int main(void) {
                 printf("Optiune invalida!\n");
                 break;
         }
-    }while (opt);
+    } while (opt);
     return 0;
 }
