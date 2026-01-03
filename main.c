@@ -62,7 +62,7 @@ void length_nume_constelatii(Constelatie v[], int n, int lungimi[]) {
 }
 void afiseaza_lungimi_constelatii(int v[], int n) {
     for (int i=0;i<n;i++) {
-        printf("%d ", v[i]);
+        printf("Lungimea numelui constelatiei %d este: %d \n", i, v[i]);
     }
     printf("\n");
 }
