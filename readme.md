@@ -1,6 +1,6 @@
-#Terminal based Constellations management system
+# Terminal based Constellations management system
 
-##Available Options
+## Available Options
 
 0. Exit;
 1. Add constellations (name, number of stars and type(v-visible/i-invisible));
